@@ -1,0 +1,27 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+td {
+	background: #ccdaff;
+	color: #001c66;
+}
+
+
+.section {
+	float: right ;
+	
+}
+
+.jumbotron {
+	background: #8080ff;
+}
+
+div.container {
+	float: left;
+}
+
